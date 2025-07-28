@@ -7,6 +7,10 @@
     {
       "type": "error",
       "message": "❌ Hiện chưa kết nối được server"
-    }
+    },
+        {
+      "type": "error",
+      "message": "❌ Hiện chưa kết nối được server"
+    },
   ]
 }
