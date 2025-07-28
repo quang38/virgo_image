@@ -1,0 +1,12 @@
+{
+  "status": [
+    {
+      "type": "done",
+      "message": "✅ Launcher đã sẵn sàng hoạt động!"
+    },
+    {
+      "type": "error",
+      "message": "❌ Hiện chưa kết nối được server"
+    }
+  ]
+}
